@@ -2424,6 +2424,10 @@ li.timing-date {
   position: absolute;
   top: -70%;
 }
+
+.scholars .opening-time{
+  min-height: 350px;
+}
 /* 42. scholars-two */
 .scholars .opening-time a svg {
   fill: var(--common-colour);
