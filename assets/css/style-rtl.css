@@ -1,0 +1,172 @@
+body {
+    direction: rtl;
+}
+section.slider-home-1.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    background-color: #444;
+} 
+.navbar-links li:not(:last-child) {
+    padding-left: 40px;
+    padding-right: 0;
+}
+.slider-home-1 {
+    direction: ltr;
+} 
+.navbar-links li.navbar-dropdown .dropdown a { 
+    padding-left: 0px; 
+    padding-right: 25px; 
+}
+.hero-section.item .row {
+    direction: rtl;
+} 
+.header-search-button.search-box-outer {
+    border-right: 1px solid #fff;
+    margin-right: 40px;
+    padding-right: 20px;
+    border-left: 0;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.header-search svg { 
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.content-header h4 {
+    padding-left: 0px; 
+    padding-right: 10px;
+}
+header ul.social-media li:not(:last-child):after {
+    right: 55px;
+}
+ul.list li { 
+    padding-left: 0; 
+    padding-right: 20px;
+}
+ul.list li:before {
+    left: auto;
+    right: 0;
+}
+.scholar img { 
+    margin-right: 0px;
+    margin-left: 13px;
+}
+.heading.two {
+    text-align: right;
+ }
+/* .wrapper {
+     direction: ltr;
+}*/
+.audioplayer-time-current {
+    margin-right: -45px;
+    margin-left: 0;
+}
+.audioplayer-time-duration {
+    margin-right: 0px;
+    margin-left: -48px;
+}
+.wrapper h4, .wrapper h5 { 
+    padding-left: 0;
+    padding-right: 66px;
+}
+.audioplayer-volume-adjust { 
+    margin-right: 11px;
+    transform: translateX(80px);
+}
+.pillars-name span {
+    padding-right: 20px;
+    padding-left: 0;
+}
+.pillars-name a { 
+    padding-left: 0px;
+    padding-right: 20px;
+}
+.pillars-name img {
+    border-radius: 127px;
+    border-bottom-left-radius: 127px;
+    border-bottom-right-radius: 0;
+}
+.pillars-name {
+    border-radius: 127px;
+    border-bottom-left-radius: 127px;
+    border-bottom-right-radius: 0px;
+}
+.islamic-ayat  img.ayat-with-img {
+    border-top-left-radius: 0px; 
+    left: 0; 
+    right: auto;
+    border-top-right-radius: 500px;
+}
+.slider-ayat {
+    direction: ltr;
+}
+.ayat {
+     
+    border-radius: 227px;
+    border-top-right-radius: 227px;
+    border-top-left-radius: 0;
+} 
+.navigating-life span {
+    padding-right: 0;
+    padding-left: 20px;
+} 
+.navigating-life i {
+    padding-right: 0px;
+    padding-left: 10px;
+}
+#countdown ul li { 
+    border-radius: 150px;
+    border-top-left-radius: 150px; 
+    border-top-right-radius: 0; 
+}
+.navigating-life .video i svg { 
+    padding: 0;
+    padding-right: 10px; 
+}
+.Information ul li a { 
+    padding-left: 0;
+    padding-right: 8px;
+}
+.contact-info i {
+    margin-right: 0px;
+    margin-left: 15px;
+}
+.search-popup .form-group input[type="submit"], .search-popup .form-group button { 
+    left: 30px; 
+    right: auto;
+}
+.mobile-nav > ul > li.menu-item-has-children:before { 
+    right: auto;
+    font-family: "Font Awesome 5 Free";
+    content: "\f053"; 
+    left: 0;
+}
+.mobile-nav > ul > li.menu-item-has-children.active:before {
+    transform: rotate(270deg);
+ }
+ .navbar-links li > a {
+     font-size: 20px;
+ }
+ .navbar-links li.navbar-dropdown .dropdown {
+     transform: translatex(-100px);
+ }
+ .navbar-links li.navbar-dropdown:hover .dropdown {
+     transform: translatex(-131px);
+ }
+ .hero-text h1 {
+    font-size: 100px;
+ }
+ 
+@media (max-width: 1400px) {
+    .navbar-links li:not(:last-child) {
+        padding-right: 0;
+    }
+    .hero-text h1 {
+        font-size: 80px;
+    }
+    .navbar-links li > a {
+        font-size: 18px;
+    }
+    .navbar-links li.navbar-dropdown span {
+        top: -10px;
+        right: 27px;
+    }
+}
