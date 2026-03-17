@@ -1335,7 +1335,8 @@
     padding-bottom: 10px;
   }
   .scholars.scholars-details ul.social-media {
-    display: none;
+    display: flex ;
+    
   }
   ul.star li i {
     font-size: 14px;
