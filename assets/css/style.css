@@ -2241,8 +2241,8 @@ li.timing-date {
   border-bottom-left-radius: 0;
 }
 .opening-time-text {
-  text-align: start;
-  padding-left: 27px;
+  text-align: center;
+  /* padding-left: 27px; */
   padding-top: 20px;
   position: relative;
 }
@@ -2425,9 +2425,9 @@ li.timing-date {
   top: -70%;
 }
 
-.scholars .opening-time{
+/* .scholars .opening-time{
   min-height: 350px;
-}
+} */
 /* 42. scholars-two */
 .scholars .opening-time a svg {
   fill: var(--common-colour);
@@ -4639,4 +4639,5 @@ justify-content: center;
 align-items: center;
 background-attachment: fixed;
 }
+
 
