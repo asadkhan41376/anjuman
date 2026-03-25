@@ -1107,8 +1107,8 @@ ul.list li:before {
   margin: auto;
 }
 .circle-text figure.circle-img img {
-  border: 1px solid;
-  width: 118px;
+  /* border: 1px solid; */
+  width: 170px;
   padding: 30px;
   border-radius: 50%;
 }
